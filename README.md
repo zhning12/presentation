@@ -16,7 +16,7 @@
 ## 本地运行
 
 ```
-$ npm install -g noteppt
+$ npm install -g nodeppt
 $ npm install
 // 启动运行
 $ npm run dev
